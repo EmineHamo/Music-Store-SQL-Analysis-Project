@@ -44,9 +44,9 @@ It reflects typical relationships in a sales and customer environment.
 
 ## 📂 Folder Structure
 
-- `/queries/` contains categorized SQL scripts for each question
+- `Queries.sql` contains SQL scripts for each question
 - `insights_summary.md` provides written business insights
-- `ERD.png` shows the database schema
+- `ERD.pdf` shows the database schema
 
 
 
